@@ -4,6 +4,10 @@
 
 **Dosto-Crypt** est un outil interactif en ligne de commande (CLI) permettant de convertir du texte en données binaires ou hexadécimales, de générer des fichiers et de décoder des fichiers existants.
 
+<p align="center">
+  <img src="dosto.png" width="400" alt="Menu du Studio">
+</p>
+
 ## Objectif du projet
 
 Créer une application légère, modulaire et interactive permettant de :
